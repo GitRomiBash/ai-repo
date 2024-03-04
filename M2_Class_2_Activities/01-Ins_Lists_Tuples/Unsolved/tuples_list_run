@@ -1,0 +1,21 @@
+#my_list = [10, 20, 30, 40, 30]
+#value_to_find = 40
+#index = my_list.index(value_to_find, 2, 4)
+#print(index)
+
+
+
+# Use sum and len to calculate average
+#scores = [92, 87, 68, 75, 96]
+#scores.index(68, 0, 3)
+#print(scores)
+
+my_list = [10, 20, 30, 40, 50]
+print(my_list[2])
+
+
+#index = 2
+#value_at_index = my_list[index]
+#print(value_at_index)
+
+
